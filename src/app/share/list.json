@@ -10,16 +10,6 @@
 		"stars": 4
 	},
 	{
-		"name": "TinyPNG",
-		"url": "https://tinypng.com/",
-		"logo": "/images/share/e3ebf06fc5dd46e3.webp",
-		"description": "国际上比较出名的压缩图片工具，过去的书本中知晓的这个网站，但是有图片大小限制，也有数量限制。挺好的压缩图片替代品。",
-		"tags": [
-			"图片"
-		],
-		"stars": 3
-	},
-	{
 		"name": "removebg",
 		"url": "https://www.remove.bg/zh",
 		"logo": "/images/share/859bfb2ef1c6a503.svg",
@@ -31,34 +21,12 @@
 		"stars": 3
 	},
 	{
-		"name": "Neumorphism",
-		"url": "https://neumorphism.io/",
-		"logo": "https://neumorphism.io/apple-touch-icon.png",
-		"description": "Neumorphism 是一种极具鲜明特色的设计风格，总能给新人一种惊叹感。但是应用并不广泛，实际开发也会有很多不好的点。更多是做一个留念。",
-		"tags": [
-			"CSS",
-			"Github"
-		],
-		"stars": 2
-	},
-	{
 		"name": "Nucleo",
 		"url": "https://nucleoapp.com/app/?library=core",
 		"logo": "/images/share/7e720f35557fa9de.svg",
 		"description": "图标库，网站整体很干净。独特的是，它有一类像素风格的图标，很有意思。它的 icon 也很多，还有 grass 风格的。",
 		"tags": [
 			"Icons"
-		],
-		"stars": 3
-	},
-	{
-		"name": "Loadership",
-		"url": "https://www.loadership.com/",
-		"logo": "https://www.loadership.com/loadership_logo_round.svg",
-		"description": "13种 Loader 样式，在线调整使用。在 AI 时代可能意义小很多了。",
-		"tags": [
-			"CSS",
-			"Github"
 		],
 		"stars": 3
 	},
@@ -81,27 +49,6 @@
 			"CSS"
 		],
 		"stars": 4
-	},
-	{
-		"name": "Magic UI",
-		"url": "https://magicui.design/",
-		"logo": "https://magicui.design/favicon.ico",
-		"description": "shadcn/ui 伴生库，有很多实用设计。取用也很方便，可以自己复制独立的代码。",
-		"tags": [
-			"组件",
-			"Github"
-		],
-		"stars": 4
-	},
-	{
-		"name": "Ai lman",
-		"url": "https://aliimam.in/docs/backgrounds/shader-rgb",
-		"logo": "https://aliimam.in/_next/image?url=%2Fai-logo-black.png&w=128&q=75",
-		"description": "类 Magic UI，但是感觉差点意思。可作为看完 Magic 意犹未尽时闲看。",
-		"tags": [
-			"组件"
-		],
-		"stars": 3
 	},
 	{
 		"name": "Awwwards",
@@ -134,26 +81,6 @@
 		"stars": 3
 	},
 	{
-		"name": "Igloo Inc.",
-		"logo": "/images/share/bfd0d5d3f6fd9811.webp",
-		"url": "https://www.igloo.inc/",
-		"description": "abeto 作品，非常酷炫",
-		"tags": [
-			"3D"
-		],
-		"stars": 4
-	},
-	{
-		"name": "abeto 官网",
-		"logo": "/images/share/36cd436103f87549.webp",
-		"url": "https://abeto.co/",
-		"description": "无限绽开的花，飘荡的树叶，复古风格化",
-		"tags": [
-			"3D"
-		],
-		"stars": 4
-	},
-	{
 		"name": "Messenger",
 		"logo": "/images/share/a325a2c41044854a.webp",
 		"url": "https://messenger.abeto.co/",
@@ -172,36 +99,6 @@
 			"3D"
 		],
 		"stars": 4
-	},
-	{
-		"name": "The Monolith Project",
-		"logo": "/images/share/12d8765705a21d67.webp",
-		"url": "https://themonolithproject.net/",
-		"description": "奇幻宇宙的动画演绎，像看电影一样。“跨越多星之际，一座沉默的巨石碑悄然苏醒。“巨石碑计划”：每一次触碰，皆可重写现实。”",
-		"tags": [
-			"3D"
-		],
-		"stars": 5
-	},
-	{
-		"name": "Making Software",
-		"logo": "https://www.makingsoftware.com/favicon.ico",
-		"url": "https://www.makingsoftware.com/",
-		"description": "面向软件设计和开发人员的参考手册。样式很棒的学习网站。",
-		"tags": [
-			"学习"
-		],
-		"stars": 4
-	},
-	{
-		"name": "Ease 函数参考",
-		"logo": "https://easings.net/96.8aa68ac4.png",
-		"url": "https://easings.net/",
-		"description": "当你在调整动画节奏时，这个 ease 表能帮助直观感受 ease 表现出的效果",
-		"tags": [
-			"Github"
-		],
-		"stars": 3
 	},
 	{
 		"name": "Isocons",
@@ -224,16 +121,6 @@
 		"stars": 3
 	},
 	{
-		"name": "WoraWork",
-		"logo": "/images/share/34ef22be0009fedc.webp",
-		"url": "https://worawork.vercel.app/",
-		"description": "方格世界的 Web3D，场景渲染非常棒，非常值得体验",
-		"tags": [
-			"3D"
-		],
-		"stars": 3
-	},
-	{
 		"name": "企鹅世界",
 		"logo": "/images/share/1f6902a80f07368a.webp",
 		"url": "https://play.pudgyworld.com/",
@@ -252,15 +139,5 @@
 			"3D"
 		],
 		"stars": 4
-	},
-	{
-		"name": "Tearable UI",
-		"logo": "blob:https://www.yysuni.com/eb24e1ef-6988-4e8f-9915-51ab70a5fcd0",
-		"url": "https://pushmatrix.github.io/tearable/",
-		"description": "将页面交互，变成一张张可以撕破的画布",
-		"tags": [
-			"3D"
-		],
-		"stars": 3
 	}
 ]
