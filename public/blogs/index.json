@@ -132,18 +132,6 @@
     "category": ""
   },
   {
-    "slug": "watch-bloggers",
-    "title": "新年观察",
-    "tags": [
-      "总结"
-    ],
-    "date": "2026-02-25T16:40",
-    "summary": "新的一年，看看其它的技术博主最近在干嘛",
-    "cover": "/blogs/watch-bloggers/ff9a6df88fc0bbb4.webp",
-    "hidden": false,
-    "category": "总结"
-  },
-  {
     "slug": "3d-scene-note",
     "title": "3D 场景搭建笔记",
     "tags": [
@@ -236,19 +224,6 @@
     "category": ""
   },
   {
-    "slug": "daily-note",
-    "title": "任务清单软件",
-    "tags": [
-      "开发",
-      "开源"
-    ],
-    "date": "2026-01-23T09:56",
-    "summary": "一款极简的任务清单",
-    "cover": "/blogs/daily-note/899dca52074bfa0c.webp",
-    "hidden": false,
-    "category": "开源"
-  },
-  {
     "slug": "gpu-twinkle",
     "title": "GPU 闪动",
     "tags": [
@@ -262,20 +237,6 @@
     "category": ""
   },
   {
-    "slug": "wave-ball",
-    "title": "波浪小球",
-    "tags": [
-      "Threejs",
-      "Shader",
-      "学习"
-    ],
-    "date": "2026-01-14T18:03",
-    "summary": "折腾 Shader",
-    "cover": "/blogs/wave-ball/86d118420c399cdb.webp",
-    "hidden": false,
-    "category": "代码实现"
-  },
-  {
     "slug": "fish-animation",
     "title": "鱼鱼动画",
     "tags": [],
@@ -284,31 +245,6 @@
     "cover": "https://www.yysuni.com/images/pictures/b346636da687740b.webp",
     "hidden": true,
     "category": ""
-  },
-  {
-    "slug": "love-island",
-    "title": "恋爱岛项目需求记录",
-    "tags": [
-      "开发",
-      "需求"
-    ],
-    "date": "2026-01-09T11:54",
-    "summary": "先记一下子",
-    "cover": "/blogs/love-island/6219a8726148dc27.jpg",
-    "hidden": false,
-    "category": "开源"
-  },
-  {
-    "slug": "electric-border",
-    "title": "电光边框效果",
-    "tags": [
-      "学习"
-    ],
-    "date": "2026-01-06T17:05",
-    "summary": "AI 学习边框特效",
-    "cover": "/blogs/electric-border/9b898d43a5a85684.webp",
-    "hidden": false,
-    "category": "代码实现"
   },
   {
     "slug": "driving-tour",
@@ -336,18 +272,6 @@
     "category": ""
   },
   {
-    "slug": "texture-format",
-    "title": "图片格式 —— 关于材质的大小研究",
-    "tags": [
-      "图片压缩",
-      "webp"
-    ],
-    "date": "2025-11-25",
-    "summary": "压缩图片的讨论",
-    "cover": "/blogs/texture-format/2c7d9391c47a1876.jpg",
-    "category": "总结"
-  },
-  {
     "slug": "kuangyeshidai",
     "title": "狂野时代",
     "tags": [
@@ -360,18 +284,6 @@
     "hidden": false
   },
   {
-    "slug": "liquid-grass",
-    "title": "好玩的液态玻璃",
-    "tags": [
-      "液态玻璃",
-      "ios"
-    ],
-    "date": "2025-11-21",
-    "summary": "很简单就能实现这个液态玻璃效果，真棒",
-    "cover": "/blogs/liquid-grass/0e7190ecaedc4930.png",
-    "category": "代码实现"
-  },
-  {
     "slug": "readme",
     "title": "2025 Blog 的使用引导",
     "tags": [
@@ -382,43 +294,6 @@
     "cover": "/blogs/readme/9532a65cc32ca5eb.png",
     "hidden": false,
     "category": ""
-  },
-  {
-    "slug": "game-again",
-    "title": "又折腾一次游戏的记录心得",
-    "tags": [
-      "笔记",
-      "心得",
-      "游戏",
-      "学习"
-    ],
-    "date": "2025-11-14",
-    "summary": "游戏难，又总会悸动",
-    "cover": "/blogs/game-again/4425a1ea5cd869ec.jpg",
-    "category": "总结"
-  },
-  {
-    "slug": "rewrite-blog-website",
-    "title": "我想重构Blog网站",
-    "tags": [
-      "重构blog网站"
-    ],
-    "date": "2025-11-11",
-    "summary": "这是重构blog网站的第一篇blog，终于把上个网站的blog 内容移动过来了。当然还有其它内容还没弄。",
-    "cover": "/blogs/rewrite-blog-website/7ec6838f38c9161e.png",
-    "category": "总结"
-  },
-  {
-    "slug": "retro-grid",
-    "title": "网格特效",
-    "tags": [
-      "开发",
-      "threejs"
-    ],
-    "date": "2025-10-14",
-    "summary": "网站设计中，网格实现的研究",
-    "cover": "/blogs/retro-grid/5f88408967c22d252c82ae65d1479d7dd9514921123fd4aeb372dd219037f708.png",
-    "category": "代码实现"
   },
   {
     "slug": "first-ios-app",
