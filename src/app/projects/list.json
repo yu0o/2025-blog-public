@@ -2,7 +2,7 @@
 	{
 		"name": "Xyuhomes",
 		"year": 2026,
-		"image": "blob:https://hihh.cn/baac4654-5920-4e65-8d26-a15bb48cc568",
+		"image": "https://xyu.homes/favicon.ico",
 		"url": "https://xyu.homes",
 		"description": "一个修改后纯静态html备案网页展示，以及原项目地址。",
 		"tags": [
@@ -13,7 +13,7 @@
 	{
 		"name": "Blinko",
 		"year": 2026,
-		"image": "blob:https://hihh.cn/ad3fd24e-71fb-4ec7-bf18-4f06d72115d9",
+		"image": "/images/project/d1404acae75799ca.png",
 		"url": "https://docs.blinko.space/zh/install",
 		"description": "一个美观的云端笔记，\ndocker部署支持一键脚本。",
 		"tags": [
