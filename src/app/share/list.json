@@ -21,16 +21,6 @@
 		"stars": 3
 	},
 	{
-		"name": "Nucleo",
-		"url": "https://nucleoapp.com/app/?library=core",
-		"logo": "/images/share/7e720f35557fa9de.svg",
-		"description": "图标库，网站整体很干净。独特的是，它有一类像素风格的图标，很有意思。它的 icon 也很多，还有 grass 风格的。",
-		"tags": [
-			"Icons"
-		],
-		"stars": 3
-	},
-	{
 		"name": "CSS Buttons",
 		"url": "https://cssbuttons.io/",
 		"logo": "/images/share/2b8118a3645967ee.svg",
@@ -51,42 +41,12 @@
 		"stars": 4
 	},
 	{
-		"name": "Awwwards",
-		"url": "https://www.awwwards.com/",
-		"logo": "https://assets.awwwards.com/assets/images/favicon.svg",
-		"description": "网站评选网站，你总能从这里发现惊艳的网站",
-		"tags": [
-			"网站集"
-		],
-		"stars": 3
-	},
-	{
-		"name": "CSS Design Awards",
-		"url": "https://www.cssdesignawards.com/",
-		"logo": "/images/share/aaae2bf4f74c8eb1.svg",
-		"description": "网站评选网站，跟 Awwwards 类似，可以看到每期的优秀网站。观感上会好些。",
-		"tags": [
-			"网站集"
-		],
-		"stars": 3
-	},
-	{
 		"name": "404s.design",
 		"logo": "/images/share/5c9a8b7deb717c5f.svg",
 		"url": "https://www.404s.design/",
 		"description": "收集 404 设计的网站，无聊的时候可以看下。",
 		"tags": [
 			"网站集"
-		],
-		"stars": 3
-	},
-	{
-		"name": "Isocons",
-		"logo": "/images/share/97859f1c57799dd2.png",
-		"url": "https://www.isocons.app/",
-		"description": "3D icons 网站，酷酷的，免费。",
-		"tags": [
-			"Icons"
 		],
 		"stars": 3
 	}
