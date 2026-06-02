@@ -49,5 +49,15 @@
 			"网站集"
 		],
 		"stars": 3
+	},
+	{
+		"name": "联通双会员",
+		"logo": "blob:https://hihh.cn/52ca8617-3ee5-409c-b234-befb6754a809",
+		"url": "https://ap2.hzzznet.cn/front/h5-l-gie6lelphbknn4/login.html",
+		"description": "每个月领取会员的，我懒得记所以放这里OvO。",
+		"tags": [
+			"会员"
+		],
+		"stars": 5
 	}
 ]
